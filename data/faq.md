@@ -1,16 +1,16 @@
 ## General
 
-### Dates and location
+### Día y lugar
 
-GDG DevFest Ukraine will take place on the 12-13th of October in [Planeta Kino (King Cross),]( https://goo.gl/Zwi76g) Lviv.
+GDG DevFest Lima será el 26 y 27 de Octubre en [UPC Campus Villa](https://goo.gl/maps/A2F9mKFeGww), Lima.
 
-### Stay Informed
+### Tener en cuenta
 
-To stay up to date on the latest information on sessions, speakers, and activities, be sure to visit the [DevFest website](https://devfest.gdg.org.ua/), RSVP on [Meetup]( https://www.meetup.com/GDG-Lviv/events/244342635/) and follow us on [Facebook](https://www.facebook.com/devfest.ukraine/) and [Twitter](https://twitter.com/devfest_ukraine). You can also follow and join the social conversation about GDG DevFest Ukraine via official hashtags #dfua and #Devfest18. In addition, we'll be emailing important information to all registered attendees, along with check-in instructions prior to the conference.
+Para mantenerse al día con la agenda, speakers y actividades visita [Devfestlima.com](https://www.devfestlima.com), [Meetup]( https://www.meetup.com/es-ES/GDG-Open/events/253130293/) y síguenos en [Facebook](https://www.facebook.com/DevFestLima/). También puedes seguirnos a través de los hashtags oficiales #DevfestLima18 y # Devfest18. Además, enviaremos por correo electrónico información importante a todos los asistentes registrados, junto con las instrucciones de check-in antes de la conferencia.
 
-### Content Formats
+### Formato del DevFest
 
-During two conference days attendees will be able to attend sessions and hands-on workshops, chat with experts and attendees at coffee breaks and after party, and more.
+Curante los d
 
 ### Livestream & Recordings
 

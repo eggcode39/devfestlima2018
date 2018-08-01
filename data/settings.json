@@ -1,47 +1,37 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
+    "name": "GDG Open",
+    "twitter": "gdgopen",
     "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "url": "https://www.meetup.com/es-ES/GDG-Open/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2018-10-26T09:00:00+03:00",
+  "endDate": "2018-10-27T20:00:00+03:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "es-PE"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "DevFest18",
   "disabledSchedule": false,
   "navigation": [
     {
       "route": "home",
       "permalink": "/",
-      "label": "Home"
+      "label": "Inicio"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
+      "route": "previous-speakers",
+      "permalink": "/previous-speakers/",
+      "label": "Speakers Anteriores"
     },
     {
       "route": "team",
       "permalink": "/team/",
-      "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
+      "label": "Equipo"
     }
   ],
   "heroSettings": {
@@ -49,7 +39,7 @@
       "description": "Be a hero. Be a GDG!",
       "background": {
         "color": "#673ab7",
-        "image": "/images/backgrounds/home.jpg"
+        "image": "/images/backgrounds/full.jpeg"
       },
       "fontColor": "#FFF"
     },
@@ -71,7 +61,7 @@
       "fontColor": "#424242"
     },
     "previousSpeakers": {
-      "title": "Previous Speakers",
+      "title": "Speakers Anteriores",
       "metaDescription": "Check who was with us last years",
       "background": {
         "color": "#FFF"
@@ -87,8 +77,8 @@
       "fontColor": "#424242"
     },
     "team": {
-      "title": "Team",
-      "metaDescription": "Get more info about organizers",
+      "title": "Equipo",
+      "metaDescription": "Mira quienes son tus anfitriones este año",
       "background": {
         "color": "#fff"
       },
@@ -112,21 +102,21 @@
     }
   },
   "location": {
-    "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "label": "Lugar",
+    "name": "UPC Campus Villa",
+    "city": "Lima",
+    "short": "Lima, Perú",
+    "address": "Av Alameda San Marcos, Distrito de Chorrillos 15067",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": -12.198467,
+      "longitude": -77.00842,
+      "zoom": 17
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": -12.198467,
+      "longitude": -77.00842
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Ubicado en la avenida Alameda San Marcos cuadra 2, Chorrillos, el campus Villa de la UPC tiene modernas instalaciones"
   },
   "mediaQueries": {
     "xs": {
@@ -148,19 +138,19 @@
     "follow": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "http://bit.ly/paginaFbDFL"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "http://bit.ly/TwitterDFL"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "http://bit.ly/InstagramDFL"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "http://bit.ly/DevFestSuscribete"
       }
     ],
     "share": [
@@ -178,7 +168,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "hola@devfestlima.com",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
