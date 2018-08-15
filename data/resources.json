@@ -57,7 +57,7 @@
       "links": [
         {
           "name": "DevFest Lima 2017",
-          "url": "https://2011.devfest.pe/",
+          "url": "https://2017.devfest.pe/",
           "newTab": true
         },
         {
@@ -100,7 +100,7 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Asistentes",
-        "number": "600"
+        "number": "500+"
       },
       "days": {
         "label": "Días",
@@ -119,7 +119,7 @@
   "ticketsBlock": {
     "title": "Entradas",
     "ticketsDetails": "TODAS las entradas incluyen: pack de bienvenida, acceso a las sesiones, workshops, demos y feria, coffee break y almuerzo ambos días.",
-    "soldOut": "You missed it!",
+    "soldOut": "Agotado!",
     "notAvailableYet": "No disponible",
     "save": "Ahorra ${discount}%"
   },
